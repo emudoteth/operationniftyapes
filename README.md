@@ -12,3 +12,6 @@ Two biggest reqs:
 
 1. Data and backend folks, someone who's down for jamming on AWS/Lambdas etc,
 2. Smart contract devs. Could be someone who's still learning but excited to dig in, specifically around more advance concepts like implementing a Diamond Pattern and building out some of our V2 features like Purchase Financing and Leveraged Trading
+
+
+If this is something you may be interested in, reach out and let me know!
