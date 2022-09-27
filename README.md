@@ -1,6 +1,6 @@
 # operation nifty apes
 
-Nifty.apes is looking to hire some amazing talent from Buidl Guidl
+Nifty apes is looking to hire some amazing talent from Buidl Guidl
 
 TLDR: NiftyApes is building leverage for your NFT portfolio and fancy mortgages from your JPEGS. Part gonzo art project, part institutional grade financial protocol we are defining what it means to be at the intersection of NFTs and DeFi one banana meme at a time. Under the hood we have created a new economic mechanism called Harberger Style Lending Auctions which solves many of the frictions in the current market and offers the opportunity to redefine the idea of ownership in lending and create a more equitable, value optimal, and regenerative debt market.
 
